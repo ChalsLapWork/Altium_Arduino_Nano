@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=A5 Pin=JP1-11
+Removed Pin From Net: NetName=A4 Pin=JP1-12
+Removed Pin From Net: NetName=A3 Pin=JP1-13
+Removed Pin From Net: NetName=A2 Pin=JP1-14
+Removed Pin From Net: NetName=A1 Pin=JP1-15
+Removed Pin From Net: NetName=A0 Pin=JP1-16
+Removed Pin From Net: NetName=VCC2 Pin=JP1-17
+Removed Pin From Net: NetName=RESET Pin=JP1-18
+Removed Pin From Net: NetName=GND Pin=JP1-19
+Removed Pin From Net: NetName=VIN Pin=JP1-20
+Removed Pin From Net: NetName=D8 Pin=JP2-1
+Removed Pin From Net: NetName=D9 Pin=JP2-2
+Removed Pin From Net: NetName=D10 Pin=JP2-3
+Removed Pin From Net: NetName=D11/MOSI Pin=JP2-4
+Removed Pin From Net: NetName=D12/MISO Pin=JP2-5
+Removed Pin From Net: NetName=D13/SCK Pin=JP2-6
+Removed Pin From Net: NetName=3V3 Pin=JP2-7
+Removed Pin From Net: NetName=AREF Pin=JP2-8
+Removed Pin From Net: NetName=A7 Pin=JP2-9
+Removed Pin From Net: NetName=A6 Pin=JP2-10
+Change Component Footprint: Designator=JP2 Old Footprint=JP 2x5 DT New Footprint=JP 1x10 CT
+Change Component Footprint: Designator=JP1 Old Footprint=JP 2x10 DT New Footprint=JP 1x10 CT
+Change Component Comment : Designator=JP2 Old Comment=JP 2x5 2.54 New Comment=JP 1x10 2.54
+Change Component Comment : Designator=JP1 Old Comment=JP 2x10 2.54 New Comment=JP 1x10 2.54
+Change component parameters: Designator = "JP1" ("JP1"); Footprint = "JP 2x10 DT"; UniqueID = "\OKLGEPTT" ("\OKLGEPTT")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP2" ("JP2"); Footprint = "JP 2x5 DT"; UniqueID = "\VZBNMQTN" ("\VZBNMQTN")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(JP 1x5 CC)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001265"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x40P Cong"; VariantName = "[No Variations]"
+Added Component: Designator=JP4(JP 1x5 CC)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001265"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x40P Cong"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A5 Pin=JP2-1
+Added Pin To Net: NetName=A4 Pin=JP2-2
+Added Pin To Net: NetName=A3 Pin=JP2-3
+Added Pin To Net: NetName=A2 Pin=JP2-4
+Added Pin To Net: NetName=A1 Pin=JP2-5
+Added Pin To Net: NetName=A0 Pin=JP2-6
+Added Pin To Net: NetName=VCC2 Pin=JP2-7
+Added Pin To Net: NetName=RESET Pin=JP2-8
+Added Pin To Net: NetName=GND Pin=JP2-9
+Added Pin To Net: NetName=VIN Pin=JP2-10
+Added Pin To Net: NetName=D8 Pin=JP3-1
+Added Pin To Net: NetName=D9 Pin=JP3-2
+Added Pin To Net: NetName=D10 Pin=JP3-3
+Added Pin To Net: NetName=D11/MOSI Pin=JP3-4
+Added Pin To Net: NetName=D12/MISO Pin=JP3-5
+Added Pin To Net: NetName=D13/SCK Pin=JP4-1
+Added Pin To Net: NetName=3V3 Pin=JP4-2
+Added Pin To Net: NetName=AREF Pin=JP4-3
+Added Pin To Net: NetName=A7 Pin=JP4-4
+Added Pin To Net: NetName=A6 Pin=JP4-5
+Added Pin To Net: NetName=VCC2 Pin=L3-1
+Added Pin To Net: NetName=VCC2 Pin=L4-1
+Added Member To Class: ClassName=SCH_Arduino_Nano Member=Component JP3 JP 1x5 2.54
+Added Member To Class: ClassName=SCH_Arduino_Nano Member=Component JP4 JP 1x5 2.54
+Added Room: Name=SCH_Arduino_Nano

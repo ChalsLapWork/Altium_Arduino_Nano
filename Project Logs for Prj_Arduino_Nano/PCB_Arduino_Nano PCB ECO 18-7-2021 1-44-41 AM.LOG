@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=VCC2 Pin=L3-1
+Removed Pin From Net: NetName=VCC2 Pin=L4-1
+Removed Pin From Net: NetName=NetL1_1 Pin=R3-2
+Removed Pin From Net: NetName=VIN Pin=VR1-1
+Removed Pin From Net: NetName=GND Pin=VR1-2
+Removed Pin From Net: NetName=GND Pin=VR1-4
+Removed Member From Class: ClassName=SCH_Arduino_Nano Member=VR1
+Added Component: Designator=AMS1(SOT223)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000596"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "AMS1117-3.3V SOT223"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=AMS1-1
+Added Pin To Net: NetName=VIN Pin=AMS1-3
+Added Pin To Net: NetName=NetL1_1 Pin=R3-1
+Change Net Name : Old Net Name=3.3 New Net Name=3V3
+Added Pin To Net: NetName=NetAMS1_2 Pin=AMS1-2
+Added Pin To Net: NetName=NetAMS1_2 Pin=AMS1-4
+Added Pin To Net: NetName=NetAMS1_2 Pin=R3-2
+Added Net: Name=NetAMS1_2
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=NetL3_1 Pin=L4-1
+Added Net: Name=NetL3_1
+Added Member To Class: ClassName=SCH_Arduino_Nano Member=Component AMS1 AMS1117-3.3V
+Added Room: Name=SCH_Arduino_Nano
